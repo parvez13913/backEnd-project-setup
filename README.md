@@ -21,6 +21,7 @@ npm install typescript --save-dev
 yarn add express mongoose cors
 yarn add express prisma cors
 npx prisma init
+yarn add @prisma/client
 npm install express mongoose cors
 ```
 
