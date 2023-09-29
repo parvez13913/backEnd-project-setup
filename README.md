@@ -271,6 +271,7 @@ npm install eslint-config-prettier --save-dev
 
 ```typescript
 yarn add husky --dev
+yarn husky install
 npm install husky --save-dev
 npx husky add .husky/pre-commit "npm test"
 ```
